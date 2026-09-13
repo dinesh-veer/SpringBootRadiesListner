@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dinesh</groupId>
-    <artifactId>SpringBootRadiesListner</artifactId>
+    <artifactId>SpringBootRedisListener</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringBootRadiesListner</name>
-    <description>SpringBootRadiesListner</description>
+    <name>SpringBootRedisListener</name>
+    <description>SpringBootRedisListener</description>
     <url/>
     <licenses>
         <license/>
