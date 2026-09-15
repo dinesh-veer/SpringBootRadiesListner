@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootRadiesListnerApplication {
+public class SpringBootRedisListenerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootRadiesListnerApplication.class, args);
+        SpringApplication.run(SpringBootRedisListenerApplication.class, args);
     }
 
 }
